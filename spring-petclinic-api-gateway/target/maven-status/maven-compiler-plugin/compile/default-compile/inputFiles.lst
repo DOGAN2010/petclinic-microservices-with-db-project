@@ -1,0 +1,9 @@
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/VisitDetails.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/ApiGatewayApplication.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/Visits.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/VisitsServiceClient.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetDetails.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/OwnerDetails.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetType.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.java
