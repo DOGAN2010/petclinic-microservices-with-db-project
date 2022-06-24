@@ -1,0 +1,7 @@
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/VetsProperties.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/web/VetResource.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/VetRepository.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/CacheConfig.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Specialty.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/VetsServiceApplication.java
+/home/dogan/Lesson/new-lesson/petclinic-microservices-with-db-project/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Vet.java
